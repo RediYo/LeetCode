@@ -1,3 +1,5 @@
+import ExtraNode.TreeNode;
+
 public class Offer26 {
 
   public boolean isSubStructure(TreeNode A, TreeNode B) {

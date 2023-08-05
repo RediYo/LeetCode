@@ -1,3 +1,5 @@
+import ExtraNode.ListNode;
+
 public class Code160 {
     
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

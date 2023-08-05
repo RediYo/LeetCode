@@ -1,3 +1,5 @@
+import ExtraNode.TreeNode;
+
 public class Offer55_1 {
 
   public int maxDepth(TreeNode root) {

@@ -1,3 +1,5 @@
+import ExtraNode.ListNode;
+
 public class Offer25 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode p1=l1,p2=l2;

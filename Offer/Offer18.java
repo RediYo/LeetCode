@@ -1,9 +1,4 @@
- //Definition for singly-linked list.
- class ListNode {
-     int val;
-     ListNode next;
-     ListNode(int x) { val = x; }
-}
+import ExtraNode.ListNode;
 
 public class Offer18 {
     public ListNode deleteNode(ListNode head, int val) {

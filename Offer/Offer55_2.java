@@ -1,3 +1,5 @@
+import ExtraNode.TreeNode;
+
 public class Offer55_2 {
 
   boolean flag = true;

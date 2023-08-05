@@ -1,3 +1,5 @@
+import ExtraNode.TreeNode;
+
 public class Offer28 {
 
   public boolean isSymmetric(TreeNode root) {

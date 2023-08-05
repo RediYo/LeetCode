@@ -1,4 +1,4 @@
-public class Code03 {
+public class Code3 {
     public int lengthOfLongestSubstring(String s) {
         
         if(s.length()<1){

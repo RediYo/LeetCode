@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+import ExtraNode.TreeNode;
+
 public class Offer7 {
 
   public TreeNode buildTree(int[] preorder, int[] inorder) {

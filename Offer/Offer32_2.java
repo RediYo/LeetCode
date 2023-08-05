@@ -3,13 +3,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-//Definition for a binary tree node.
-class TreeNode {
-      int val;
-      TreeNode left;
-    TreeNode right;
-     TreeNode(int x) { val = x; }
- }
+import ExtraNode.TreeNode;
+
 
 public class Offer32_2 {
 

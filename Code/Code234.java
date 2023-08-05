@@ -1,6 +1,8 @@
 import java.util.Deque;
 import java.util.LinkedList;
 
+import ExtraNode.ListNode;
+
 public class Code234 {
     
     public boolean isPalindrome(ListNode head) {

@@ -1,3 +1,4 @@
+import ExtraNode.ListNode;
 
 public class Offer22 {
     public ListNode getKthFromEnd(ListNode head, int k) {

@@ -1,3 +1,5 @@
+import ExtraNode.TreeNode;
+
 public class Offer54 {
     
     int result;
