@@ -27,7 +27,7 @@ public class Code94 { // 94. 二叉树的中序遍历
 
 }
 
-class Solution {
+class Solution94 {
 
     List<Integer> list = new ArrayList<>();
     Deque<TreeNode> stack = new LinkedList<>();

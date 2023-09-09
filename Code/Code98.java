@@ -30,7 +30,7 @@ public class Code98 { // 给你一个二叉树的根节点 root ，判断其是�
     }
 }
 
-class Solution { // 进阶
+class Solution98 { // 进阶
     
     long pre = Long.MIN_VALUE;
 

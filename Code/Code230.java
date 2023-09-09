@@ -35,7 +35,7 @@ public class Code230 {
  * 进阶：如果二叉搜索树经常被修改（插入/删除操作）并且你需要频繁地查找第 k 小的值，
  * 你将如何优化算法？
  */
-class Solution {
+class Solution230 {
     public int kthSmallest(TreeNode root, int k) {
 
         return 0;
